@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Quem bom que você veio!",
+      "autoria": "Gustavo Arruda",
+      "modelo": "modelo3"
+    },
+    {
+      "id": 2,
+      "conteudo": "Vamos estudar vagabundo!",
+      "autoria": "Gustavo Arruda",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 3,
+      "conteudo": "Nunca deixa ngm te dizer que vc não é capaz! Insista!",
+      "autoria": "Gustavo Arruda",
+      "modelo": "modelo2"
+    }
+  ]
+}
